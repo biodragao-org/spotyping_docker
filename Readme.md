@@ -1,0 +1,1 @@
+# SpoTyping docker image
