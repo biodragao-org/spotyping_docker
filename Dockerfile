@@ -8,9 +8,9 @@ MAINTAINER Abhinav Sharma (@abhi18av)
 RUN conda install blast -y
 #RUN conda install -c r r-gdata -y
 
-RUN git clone https://github.com/xiaeryu/SpoTyping-2.0 && cd SpoTyping-2.0/
+RUN git clone https://github.com/xiaeryu/SpoTyping-v2.0 
 
-WORKDIR /SpoTyping-2.0/SpoTyping-v2.0-commandLine/
+WORKDIR /SpoTyping-v2.0/SpoTyping-v2.0-commandLine/
 
 CMD ["python2.7", "SpoTyping.py"]
 
