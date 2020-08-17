@@ -1,4 +1,4 @@
-FROM abhi18av/biodragao_base
+FROM nextflowhubcontainers/base
 MAINTAINER Abhinav Sharma (@abhi18av)
 
 #########
