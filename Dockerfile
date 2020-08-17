@@ -1,5 +1,5 @@
 FROM nextflowhubcontainers/base
-MAINTAINER Abhinav Sharma (@abhi18av)
+MAINTAINER Shruti Sharma (@sharma-shruti)
 
 #########
 ### commands
